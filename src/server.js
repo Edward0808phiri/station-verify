@@ -22,7 +22,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: `http://localhost:${PORT}`,
+                url: `https://station-order-complete.onrender.com/`,
                 description: 'Development server'
             }
         ]
